@@ -1,0 +1,20 @@
+.filme_head {
+font-size: 20px;
+border-radius: 10px;
+margin-bottom: 15px;
+padding: 6px 22px;
+}
+.filme_head i{
+float: right;
+}
+.conquistas_text_span {
+    color: orange;
+}
+.novidade
+{
+margin-bottom: 20px;
+}
+#contato iframe
+{
+width: 100%;
+}
